@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/00-obsidian/01-markdown/"}
 ---
 
----
-dg-publish: true 
-dg-home: true
----
 
 [markdown在线编辑器](https://markdown.com.cn/editor/)
 
